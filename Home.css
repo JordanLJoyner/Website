@@ -19,6 +19,11 @@
   margin: 20px auto 0;
 }
 
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-1 .u-video-1 {
   width: 456px;
   height: 257px;
